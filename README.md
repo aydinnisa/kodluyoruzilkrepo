@@ -15,7 +15,7 @@
 
 ## Linux icin:
 >cd kodluyoruzilkrepo
->code . 
+ code . 
 # CONTRIBUTING
 
 ## Pull requestler kabul edilir.Buyuk degisiklikler icin, lutfen once neyi degistirmek istediginizi tartismak icin konu aciniz.
@@ -23,4 +23,4 @@
 # LICENCE
 
 (https://choosealicense.com/licenses/mit/)
-# kodluyoruzilkrepo
+
