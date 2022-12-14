@@ -1,4 +1,4 @@
-# kodluyoruzilkrepo
+# KODLUYORUZ ILK REPO
 
 ![Kodluyoruz Logo](https://raw.githubusercontent.com/Kodluyoruz/taskforce/git/git/markdown-nedir-nasil-kullaniriz-/figures/kodluyoruz_logo.jpg)
 ## Bu repo [Kodluyoruz Sayfamız](https://www.kodluyoruz.org/) Front-End End Egitiminde olusturdugumuz ilk repo.Icerisinde bir adet README dosyasi,bir adet de index html barindiriyor.
@@ -14,7 +14,8 @@
 ## Projeyi cloneladiktan sonra VSC programini aciniz.
 
 ## Linux icin:
->cd kodluyoruzilkrepo
+>cd kodluyoruzilkrepo 
+><br>
  code . 
 # CONTRIBUTING
 
